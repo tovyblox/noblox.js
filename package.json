@@ -1,6 +1,6 @@
 {
   "name": "@tovy/noblox.js",
-  "version": "4.13.32",
+  "version": "4.13.33",
   "description": "Tovy's version of noblox.js - forked from noblox.js",
   "main": "lib/index.js",
   "types": "typings/index.d.ts",
