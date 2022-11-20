@@ -1,7 +1,7 @@
 // Type definitions for noblox.js@4.8.0-0
 // Authored by Gamenew09 w/ changes by suufi
 
-declare module "noblox.js" {
+declare module "@tovy/noblox.js" {
     // Interfaces/Types
     import * as events from "events";
     import * as stream from "stream";
